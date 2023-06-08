@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chapter9SpringBoot_Jpa_Jsp:war" />
+      <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9862826a-ee20-4dc5-8f44-01888c4cf893" name="Default Changelist" comment="Cập nhật lần 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mta/ConfigCros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/excepts/IOError.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/excepts/database_error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/excepts/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_13_102.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter9SpringBoot_Jpa_Jsp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9SpringBoot_Jpa_Jsp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/EMSApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mta/EMSApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/manyToMany/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/manyToMany/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/manyToMany/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/manyToMany/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/manyToMany/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/manyToMany/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/modelViewParamsReqsVariablesPaths/ParamsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvc/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvc/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvc/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvc/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvc/RegistrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvcOnToMany/controller/CartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvcOnToMany/entity/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvcOnToMany/entity/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvcOnToMany/impl/CartServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvcOnToMany/repository/CartRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/mvcOnToMany/service/CartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/oneToOne/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/oneToOne/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/oneToOne/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/oneToOne/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/oneToOne/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/oneToOne/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/primary/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/primary/EmailMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/primary/FacebookMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/primary/MessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/propertyResource/DBConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/propertyResource/DBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/propertyResource/SpringMainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/qualifier/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/qualifier/EmailMessageService1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/qualifier/FacebookMessageService1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/qualifier/MessageService1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/otherAnnotations/qualifier/Mobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/restAPI/AppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/restAPI/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/restAPI/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/restAPI/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/springForm/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mta/springForm/EmployeeForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/manyToMany/StudentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvc/EmployeeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvc/EmployeeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvc/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvc/RegistrationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/entity/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/entity/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/entity/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/entity/Items.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/impl/CartServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/mvcOnToMany/impl/CartServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/oneToOne/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/restAPI/AppController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Chapter9SpringBootJsp-1.0-SNAPSHOT/WEB-INF/classes/mta/restAPI/AppController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/EMSApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mta/EMSApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/manyToMany/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/manyToMany/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/manyToMany/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/manyToMany/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/manyToMany/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/manyToMany/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/modelViewParamsReqsVariablesPaths/ParamsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvc/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvc/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvc/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvc/EmployeeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvc/RegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvcOnToMany/controller/CartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvcOnToMany/entity/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvcOnToMany/entity/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvcOnToMany/impl/CartServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvcOnToMany/repository/CartRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/mvcOnToMany/service/CartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/oneToOne/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/oneToOne/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/oneToOne/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/oneToOne/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/oneToOne/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/oneToOne/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/primary/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/primary/EmailMessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/primary/FacebookMessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/primary/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/propertyResource/DBConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/propertyResource/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/propertyResource/SpringMainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/qualifier/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/qualifier/EmailMessageService1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/qualifier/FacebookMessageService1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/qualifier/MessageService1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/otherAnnotations/qualifier/Mobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/restAPI/AppController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/restAPI/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/restAPI/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/restAPI/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/springForm/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mta/springForm/EmployeeForm.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2Mj3FxI227lmX5ZRymWQVqkPs62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Spring_boot/Chapter6SpringBoot_Jpa_Jsp/Chapter6SpringBoot_Jpa_Jsp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;8c78987a85f75f3113f540e6d872966a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\java\mta" />
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\webapp\excepts" />
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\webapp\views" />
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\java\mta\mvcException" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\webapp\viewsSpringForm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\webapp\excepts" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\java\mta\mvc\controller" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mta.exceptionSpringMVC.exceptionGlobal" />
+      <recent name="mta.mvc" />
+      <recent name="mta.mvc.serviceImpl" />
+      <recent name="mta.mvc.service" />
+      <recent name="mta.mvc.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.otherAnnotations.qualifier.Application" />
+      <module name="Chapter9SpringBootJsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.otherAnnotations.qualifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EMSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9SpringBootJsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mta.EMSApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Chapter9SpringBootJsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mta.EMSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Index_ParamRequest.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/params/Index_ParamRequest.jsp" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Chapter9SpringBoot_Jpa_Jsp_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9 Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0e8a9d0e-05bd-488a-9952-0cb502edb743" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59042" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="add-employee.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/viewsSpringForm/add-employee.jsp" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Chapter9SpringBoot_Jpa_Jsp_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2c1ed56d-d081-4de6-94cd-f11b18088116" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application (1)" />
+      <item itemvalue="Spring Boot.Unnamed" />
+      <item itemvalue="Spring Boot.EMSApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Spring Boot.EMSApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9862826a-ee20-4dc5-8f44-01888c4cf893" name="Default Changelist" comment="" />
+      <created>1678267066002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678267066002</updated>
+      <workItem from="1678267067302" duration="31000" />
+      <workItem from="1678267168602" duration="2120000" />
+      <workItem from="1678329611339" duration="7315000" />
+      <workItem from="1678340839169" duration="74000" />
+      <workItem from="1678349685404" duration="2791000" />
+      <workItem from="1678353862332" duration="12252000" />
+      <workItem from="1678403386741" duration="678000" />
+      <workItem from="1678406882654" duration="2000" />
+      <workItem from="1678433169035" duration="12451000" />
+      <workItem from="1678463362189" duration="5756000" />
+      <workItem from="1678503337859" duration="327000" />
+      <workItem from="1678503688907" duration="1156000" />
+      <workItem from="1678504959383" duration="682000" />
+      <workItem from="1678507987245" duration="4640000" />
+      <workItem from="1678524580063" duration="19000" />
+      <workItem from="1678524624866" duration="6000" />
+      <workItem from="1678533316431" duration="6000" />
+      <workItem from="1678545585354" duration="344000" />
+      <workItem from="1678624999617" duration="7670000" />
+      <workItem from="1678673801600" duration="841000" />
+      <workItem from="1679385032305" duration="815000" />
+      <workItem from="1679387313888" duration="1314000" />
+      <workItem from="1679445889572" duration="1215000" />
+      <workItem from="1679532197482" duration="3612000" />
+      <workItem from="1679556605455" duration="41000" />
+      <workItem from="1680224764268" duration="69000" />
+      <workItem from="1680225832625" duration="3479000" />
+      <workItem from="1680273513886" duration="9000" />
+      <workItem from="1684809277463" duration="31000" />
+      <workItem from="1684810414393" duration="100000" />
+      <workItem from="1684810520191" duration="115000" />
+      <workItem from="1684812973913" duration="429000" />
+      <workItem from="1684828598452" duration="626000" />
+      <workItem from="1684942304310" duration="71000" />
+      <workItem from="1685112224377" duration="361000" />
+      <workItem from="1685119107691" duration="55000" />
+      <workItem from="1685413497230" duration="92000" />
+      <workItem from="1685460973095" duration="642000" />
+      <workItem from="1685498639415" duration="36000" />
+      <workItem from="1685507836842" duration="2000" />
+      <workItem from="1685507864433" duration="74000" />
+      <workItem from="1685587431403" duration="13349000" />
+      <workItem from="1685630390284" duration="3131000" />
+      <workItem from="1685633565741" duration="270000" />
+      <workItem from="1685633857454" duration="316000" />
+      <workItem from="1685634194799" duration="1154000" />
+      <workItem from="1685636016829" duration="32000" />
+      <workItem from="1685636478161" duration="469000" />
+      <workItem from="1685636980087" duration="1093000" />
+      <workItem from="1685662951780" duration="6000" />
+      <workItem from="1685676866975" duration="109000" />
+      <workItem from="1685677445171" duration="11000" />
+      <workItem from="1685679522090" duration="357000" />
+      <workItem from="1685680626663" duration="1536000" />
+      <workItem from="1685687334012" duration="2000" />
+      <workItem from="1685698578769" duration="605000" />
+      <workItem from="1685705156556" duration="20000" />
+      <workItem from="1685756453943" duration="4651000" />
+      <workItem from="1685762466485" duration="2567000" />
+      <workItem from="1685766496126" duration="966000" />
+      <workItem from="1685810808841" duration="417000" />
+      <workItem from="1685842953714" duration="308000" />
+      <workItem from="1685843326279" duration="258000" />
+      <workItem from="1686029021689" duration="629000" />
+      <workItem from="1686048257318" duration="1588000" />
+      <workItem from="1686051486052" duration="1540000" />
+      <workItem from="1686142422047" duration="1436000" />
+      <workItem from="1686149642457" duration="270000" />
+      <workItem from="1686152766777" duration="5101000" />
+      <workItem from="1686195435038" duration="951000" />
+      <workItem from="1686220505837" duration="6148000" />
+    </task>
+    <task id="LOCAL-00001" summary="Cập nhật lần 1">
+      <created>1679445983316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679445983316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="3851ff09-51d0-4466-8b2c-0a1c0db98772" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="3851ff09-51d0-4466-8b2c-0a1c0db98772">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cập nhật lần 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cập nhật lần 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mta/mvc/controller/RegistrationController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mta/modelViewParamsReqsVariablesPaths/ParamsController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chapter9SpringBootJsp$EMSApplication.ic" NAME="EMSApplication Coverage Results" MODIFIED="1678330761620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ems.main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
